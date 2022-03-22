@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sudoku_solver](https://github.com/Suaif/sudoku_solver)
 
-- 🌱 I’m currently learning **Shapley values, Power BI, Transformers**
+- 🌱 I’m currently learning **OCR, Shapley values and Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suaif/](https://github.com/Suaif/)
 
