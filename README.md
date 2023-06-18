@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismael Gómez Garrido</h1>
-<h3 align="center">AI master student at Maastricht University with a great interest in ML, AI, Data Science, and just programming</h3>
+<h3 align="center">AI master student at Maastricht University</h3>
 
-- 🔭 I’m currently working on [Quantum computing for anomaly detection](Soon...)
+- 🔭 I’m currently working on [Quantum computing for anomaly detection](https://github.com/imacrepo/quantum_anomalyDetection)
 
 - 🌱 I’m currently learning **Quantum computing, NLP, Shapley values**
 
