@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismael Gómez Garrido</h1>
-<h3 align="center">AI master student at Maastricht University</h3>
+<h3 align="center">I build and optimize AI solutions that turn data into real-world impact</h3>
 
 I build and optimize AI solutions that turn data into real-world impact. 
 
